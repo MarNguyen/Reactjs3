@@ -1,0 +1,15 @@
+====== Buổi 1 ======
+    - Component:
+        + Stateful Component: class
+        + Stateless Component: function
+
+====== Buổi 2 ======
+    - Rendering elements: {}
+    - Handling Events: onClick
+    - State: Nếu như state => component render lại lần mới
+    - List keys
+
+====== Buổi 3 ======
+    - Communicate: giao tiếp các component
+        + Props: truyền data từ component cha => component con
+        + Lifting State Up: truyền data từ component con => component cha
